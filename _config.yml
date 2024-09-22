@@ -160,10 +160,8 @@ yat:
 # Page default value
 defaults:
   home:
-#    heading: "Phyclops"   # works
-    heading: ""
-#    subheading: "We listen to Plants"  # works
-    subheading: ""
+    heading: "Plants"   # works
+    subheading: "We listen to them"  # works
 #    banner: "Your image url"
 
 # Banner default settings
