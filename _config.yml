@@ -162,7 +162,7 @@ night_mode: "on"
 defaults:
   home:
     heading: "Plants"   # works
-    subheading: "We listen to them"  # works
+    subheading: "They talk to us"  # works
 #    banner: "Your image url"
 
 # Banner default settings
