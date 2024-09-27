@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Olive Tree - Drystress
-subtitle: Detect drystress in an olive tree with Machine learning
+title: Olive Tree - Detecting Drystress with Machine Learning
+subtitle: 
 categories: keyvideo
 tags: [video]
 ---
