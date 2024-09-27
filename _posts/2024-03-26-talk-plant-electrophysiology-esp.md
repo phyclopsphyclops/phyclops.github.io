@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk - Plant Electrical Signalling - ESP
+title: Talk - Plant Electrical Signalling - Earth Species Project
 subtitle: Earth Species Project
 categories: keyvideo
 tags: [video]
