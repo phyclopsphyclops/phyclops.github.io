@@ -2,6 +2,7 @@
 layout: post
 title: Amplifier Version 4 is good to go
 subtitle: 
+excerpt_image: /assets/images/AmpV4-PCB.jpeg
 categories: update
 tags: [update]
 ---
