@@ -2,6 +2,7 @@
 layout: post
 title: Data Sample for Download - Conifer (Picea abies)
 subtitle: 
+excerpt_image: /assets/images/ConiferC-early-august-2023.png
 categories: download
 tags: [data]
 ---
