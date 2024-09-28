@@ -2,6 +2,7 @@
 layout: post
 title: Talk - Plant Electrical Signalling - Earth Species Project
 subtitle: Earth Species Project
+excerpt_image: /assets/images/esp-talk-excerpt-1.jpg
 categories: keyvideo
 tags: [video]
 top: 1
