@@ -2,6 +2,7 @@
 layout: post
 title: Designing a New Amplifier
 subtitle: 
+excerpt_image: /assets/images/excerpt-design-new-ampv4.png
 categories: update
 tags: [update]
 ---

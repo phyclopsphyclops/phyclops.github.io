@@ -2,6 +2,7 @@
 layout: post
 title: Intro - Recording Electrical Signals of a Wild Conifer
 subtitle: 
+excerpt_image: /assets/images/excerpt-wild-conifer-longterm.png
 categories: keyvideo
 tags: [video]
 ---
