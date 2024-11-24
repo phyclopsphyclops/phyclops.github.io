@@ -14,12 +14,9 @@ Can a geomagentic storm alter the electrical signalling patterns of a Conifer?
 
 ## All videos for the Geomagentism experiment
 
-Latest:  
-#33    https://youtu.be/V9XIdEd4WZY
-
-Previous:   
+#33    https://youtu.be/V9XIdEd4WZY   (Newest)  
 #32    https://youtu.be/YxRXxnekUQo   
-#31    https://youtu.be/NXxLGXdeZsM   
+#31    https://youtu.be/NXxLGXdeZsM   (First)
 
 
 ## Geomagnetic Kp-index (global indicator for disturbances of the Earth's magnetic field)
