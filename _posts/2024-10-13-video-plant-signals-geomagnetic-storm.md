@@ -8,7 +8,8 @@ tags: [video]
 ---
 
 ## Plant Signals in a Geomagnetic Storm 
-Can a geomagentic storm alter the electrical signalling patterns of a Conifer?
+Question this experiment will answer:  
+Can a geomagentic storm alter the electrical signalling patterns of a Conifer (Picea alba)?
   
 
 ## All videos for the Geomagentism long-run experiment
