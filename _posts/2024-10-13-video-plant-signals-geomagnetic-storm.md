@@ -9,16 +9,17 @@ tags: [video]
 
 ## Plant Signals in a Geomagnetic Storm 
 Can a geomagentic storm alter the electrical signalling patterns of a Conifer?
-
-![](//www.youtube.com/watch?v=NXxLGXdeZsM)  
+  
 
 ## All videos for the Geomagentism long-run experiment
 
-![Video 33   Newest](https://youtu.be/V9XIdEd4WZY)  
+Newest  
+![Video 33](https://youtu.be/V9XIdEd4WZY)  
 
 ![Video 32](https://youtu.be/YxRXxnekUQo)  
 
-![Video 31   First](https://youtu.be/NXxLGXdeZsM)  
+First with Introduction
+![Video 31](https://youtu.be/NXxLGXdeZsM)  
 
 
 
