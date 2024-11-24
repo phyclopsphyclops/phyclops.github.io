@@ -18,8 +18,8 @@ Latest:
 #33    https://youtu.be/V9XIdEd4WZY
 
 Previous:   
-#32    https://youtu.be/YxRXxnekUQo
-#31    https://youtu.be/NXxLGXdeZsM
+#32    https://youtu.be/YxRXxnekUQo   
+#31    https://youtu.be/NXxLGXdeZsM   
 
 
 ## Geomagnetic Kp-index (global indicator for disturbances of the Earth's magnetic field)
