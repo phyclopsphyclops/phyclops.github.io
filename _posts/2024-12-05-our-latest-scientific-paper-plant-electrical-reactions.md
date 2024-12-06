@@ -2,13 +2,16 @@
 layout: post
 title: Latest Research Article - Plant Electrical Reactions
 subtitle: 
-excerpt_image: /assets/images/ConiferC-early-august-2023.png
+excerpt_image: /assets/images/excerpt-bioRxiv-paper-phyclops-2024-12-05-Screenshot_2024-12-06_06-31-36.jpg
 categories: research
 tags: [research,data]
 top: 1
 ---
 
-![Conifer](/assets/images/ConiferC-early-august-2023.png)
+
+
+
+![Research paper plant electrical signals](/assets/images/excerpt-bioRxiv-paper-phyclops-2024-12-05-Screenshot_2024-12-06_06-31-36.jpg)
 
 ## How to discover plant electrical reactions to specific environmental conditions
 
