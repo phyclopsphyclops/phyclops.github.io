@@ -14,12 +14,12 @@ Can a geomagentic storm alter the electrical signalling patterns of a Conifer (P
 
 ## All videos for the Geomagentism long-run experiment
 
-Newest  
+# Newest  
 ![Video 33](https://youtu.be/V9XIdEd4WZY)  
 
 ![Video 32](https://youtu.be/YxRXxnekUQo)  
 
-Introduction  
+# Introduction  
 ![Video 31](https://youtu.be/NXxLGXdeZsM)  
 
 
