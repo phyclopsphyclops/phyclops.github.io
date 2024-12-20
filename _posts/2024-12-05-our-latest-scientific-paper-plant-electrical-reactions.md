@@ -15,7 +15,7 @@ top: 1
 [Download from github](/assets/docs/Plant-Electrophysiology-Wilkening-2024.pdf)
 <br/>
 
-[![Research paper plant electrical signals](/assets/images/excerpt-bioRxiv-paper-phyclops-2024-12-05-Screenshot_2024-12-06_06-31-36.jpg)](rb.gy/lrmgw4)
+[![Research paper plant electrical signals](/assets/images/excerpt-bioRxiv-paper-phyclops-2024-12-05-Screenshot_2024-12-06_06-31-36.jpg)](https://rb.gy/lrmgw4)
 
 A sample of the data used in this research paper is available on [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10557077)
 
