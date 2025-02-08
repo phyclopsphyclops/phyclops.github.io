@@ -5,6 +5,7 @@ subtitle:
 excerpt_image: /assets/images/excerpt-plant-signals-geomag-20241013.jpg
 categories: keyvideo
 tags: [video]
+top: 1
 ---
 
 ## Plant Signals in a Geomagnetic Storm 
