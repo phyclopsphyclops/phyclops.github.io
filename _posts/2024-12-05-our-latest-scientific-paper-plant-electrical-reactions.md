@@ -5,7 +5,7 @@ subtitle:
 excerpt_image: /assets/images/excerpt-bioRxiv-paper-phyclops-2024-12-05-Screenshot_2024-12-06_06-31-36.jpg
 categories: research
 tags: [research,data]
-top: 1
+top: 2
 ---
 
 ## How to discover plant electrical reactions to specific environmental conditions
