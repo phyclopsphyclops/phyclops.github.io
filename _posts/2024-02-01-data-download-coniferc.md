@@ -5,7 +5,6 @@ subtitle:
 excerpt_image: /assets/images/ConiferC-early-august-2023.png
 categories: download
 tags: [data]
-top: 2
 ---
 
 ![Conifer](/assets/images/ConiferC-early-august-2023.png)
