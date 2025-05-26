@@ -10,9 +10,9 @@ top: 2
 
 ## How to discover plant electrical reactions to specific environmental conditions
 
-[Download from bioRxiv](https://www.biorxiv.org/content/10.1101/2024.12.03.626606v2)
+# [Download from bioRxiv](https://www.biorxiv.org/content/10.1101/2024.12.03.626606v2)
 <br/><br/>
-[Download from github](/assets/docs/2024.12.03.626606v2.full.pdf)
+# [Download from github](/assets/docs/2024.12.03.626606v2.full.pdf)
 <br/>
 
 ![Research paper plant electrical signals](/assets/images/excerpt-bioRxiv-paper-v2-phyclops-Screenshot_2025-05-26_10-03-08.jpg)
