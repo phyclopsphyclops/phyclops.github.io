@@ -10,7 +10,7 @@ top: 2
 
 ## How to discover plant electrical reactions to specific environmental conditions
 
-[Download from bioRxiv](https://www.biorxiv.org/content/10.1101/2024.12.03.626606v1)
+[Download from bioRxiv](https://www.biorxiv.org/content/10.1101/2024.12.03.626606v2)
 <br/><br/>
 [Download from github](/assets/docs/Plant-Electrophysiology-Wilkening-2024.pdf)
 <br/>
