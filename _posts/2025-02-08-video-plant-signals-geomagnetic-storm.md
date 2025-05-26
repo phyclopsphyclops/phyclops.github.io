@@ -18,15 +18,19 @@ for navigating long distances through the oceans. It is believed that when geoma
 these marine mammals can temporarily lose their sense of direction. More recently it was shown that at least
 one ant species uses the geomagnetic field as an additional cue for finding their way back to their nest.
 
-Plants do not move and sensing the magnetic field may not give them any significant advantage in that regard, 
+Plants do not move and sensing the earth's magnetic field for the purpose of ortientation may not give them 
+any significant advantage as it does to the motile animal species mentioned, 
 however since geomagnetic storms are mostly caused by abrupt changes in the particle flow and the spectral output 
-of the sun and plants are very sensitive to different wavelengths of light, even if they don't sense magnetism 
-directly they could be sensing the associated changes in light spectral composition and react to it, for example to
+of the sun and plants are very sensitive to different wavelengths of light, even if they don't sense geomagnetism 
+directly they could be sensing the associated changes in photon spectral composition and react to it, for example to
 protect their sensitive photosynthetic machinery. 
 
 ## All videos for the Geomagentism long-run experiment
 
+
 # Newest  
+![Video 36](https://youtu.be/W-1yuLkbS0k)  
+
 ![Video 35](https://youtu.be/KXOfQnxWrgE)  
 
 ![Video 34](https://youtu.be/LDgj4u4BOhs)  
