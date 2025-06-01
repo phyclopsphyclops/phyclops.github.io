@@ -12,7 +12,7 @@ This kit can be ordered
 
 | Stage | Direct Products | 
 | ----: | --------------: | 
-| * aaaa  * bbbb * cccc  * gggg |  ![][PHOTO1]    |
+| aaaa  <br> bbbb <br> cccc  <br> gggg |  ![][PHOTO1]    |
 
 
 |:     Easy Multiline     :|||
