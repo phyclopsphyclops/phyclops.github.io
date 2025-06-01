@@ -16,11 +16,9 @@ This kit can be ordered
 
 (Some soldering is required)
 
-![][PHOTO1]
-
 ![][PHOTO2]
 
-(Some soldering required)
+(Some soldering is required)
 
 [PHOTO1]: /assets/images/PhyclopsOne-v2-photo01.jpg
 [PHOTO2]: /assets/images/PhyclopsOne-v2-photo02.jpg
