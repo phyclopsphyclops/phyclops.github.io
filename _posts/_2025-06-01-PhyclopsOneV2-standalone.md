@@ -10,10 +10,12 @@ tags: [hardware]
 ## Phyclops-One v2 kit
 This kit can be ordered 
 
-| Stage | Direct Products | ATP Yields |
-| ----: | --------------: | ---------: |
-|aaaa | bbbb                   ||
-|^^         | cccc      | dddd   |
+| Stage | Direct Products | 
+| ----: | --------------: | 
+|aaaa | [PHOTO1]          |
+|bbbb        | ^^      |
+|cccc        | ^^      |
+|dddd        | ^^      |
 
 ![][PHOTO1]
 
