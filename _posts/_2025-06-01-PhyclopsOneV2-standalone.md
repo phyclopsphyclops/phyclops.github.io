@@ -12,10 +12,7 @@ This kit can be ordered
 
 | Stage | Direct Products | 
 | ----: | --------------: | 
-|aaaa |  ![][PHOTO1]    |
-|bbbb        | ^^      |
-|cccc        | ^^      |
-|dddd        | ^^      |
+|aaaa bbbb cccc dddd eeee ffff gggg |  ![][PHOTO1]    |
 
 ![][PHOTO1]
 
