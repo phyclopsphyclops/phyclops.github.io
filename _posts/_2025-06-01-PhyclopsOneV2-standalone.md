@@ -12,17 +12,8 @@ This kit can be ordered
 
 | Stage | Direct Products | 
 | ----: | --------------: | 
-| aaaa  <br> bbbb <br> cccc  <br> gggg |  ![][PHOTO1]    |
+| Feature 1 and so on  <br> Feature two and so on <br><br> Feature 3 and so on  <br> Feature 5 and so on and on |  ![][PHOTO1]    |
 
-
-|:     Easy Multiline     :|||
-|:------ |:------ |:-------- |
-| Apple  | Banana |  Orange  \
-| Apple  | Banana |  Orange  \
-| Apple  | Banana |  Orange
-| Apple  | Banana |  Orange  \
-| Apple  | Banana |  Orange  |
-| Apple  | Banana |  Orange  |
 
 
 ![][PHOTO1]
