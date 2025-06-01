@@ -12,7 +12,7 @@ This kit can be ordered
 
 |--|--|
 | :---- | --------------: | 
-| Feature 1 and so on  <br> Feature two and so on <br><br> Feature 3 and so on  <br> Feature 5 and so on and on |  ![][PHOTO1]    |
+| Two independent recording channels (voltage differential) <br><br> Sampling rate 10 samples per second. <br><br> Data written to micro-SD card in binary and csv format. |  ![][PHOTO1]    |
 
 
 
