@@ -11,7 +11,11 @@ tags: [hardware]
 This kit can be ordered 
 
 
-(Some soldering required)
-![](/assets/images/PhyclopsOne-v2-photo01.jpg)
+![][PHOTO1]
 
-![](/assets/images/PhyclopsOne-v2-photo02.jpg)
+![][PHOTO2]
+
+(Some soldering required)
+
+[PHOTO1]: /assets/images/PhyclopsOne-v2-photo01.jpg
+[PHOTO2]: /assets/images/PhyclopsOne-v2-photo02.jpg
