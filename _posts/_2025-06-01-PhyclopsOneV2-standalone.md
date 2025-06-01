@@ -14,7 +14,7 @@ This kit can be ordered
 | :---- | --------------: | 
 | Two independent recording channels<br>(voltage differential) <br><br> Recording at 10 samples per second<br>per channel <br><br> Data written to micro-SD card in binary and csv format <br><br> Bipolar input range -2.8 to +2.8 V <br><br> Power supply range 3.3 to 6 V |  ![][PHOTO1]    |
 
-
+(Some soldering is required)
 
 ![][PHOTO1]
 
