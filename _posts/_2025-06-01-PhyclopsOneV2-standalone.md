@@ -20,5 +20,8 @@ This kit can be ordered
 
 (Some soldering is required)
 
+Image of assembled board with capacitors and pin headers for IN0,IN1,IN2,IN3  and  GND,5V
+
+
 [PHOTO1]: /assets/images/PhyclopsOne-v2-photo01.jpg
 [PHOTO2]: /assets/images/PhyclopsOne-v2-photo02.jpg
