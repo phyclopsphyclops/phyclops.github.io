@@ -10,8 +10,8 @@ tags: [hardware]
 ## Phyclops-One v2 kit
 This kit can be ordered 
 
-| Stage | Direct Products | 
-| ----: | --------------: | 
+| -- | --- | 
+| :---- | --------------: | 
 | Feature 1 and so on  <br> Feature two and so on <br><br> Feature 3 and so on  <br> Feature 5 and so on and on |  ![][PHOTO1]    |
 
 
