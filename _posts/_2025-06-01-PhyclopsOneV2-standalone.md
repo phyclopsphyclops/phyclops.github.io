@@ -15,6 +15,16 @@ This kit can be ordered
 | * aaaa  * bbbb * cccc  * gggg |  ![][PHOTO1]    |
 
 
+|:     Easy Multiline     :|||
+|:------ |:------ |:-------- |
+| Apple  | Banana |  Orange  \
+| Apple  | Banana |  Orange  \
+| Apple  | Banana |  Orange
+| Apple  | Banana |  Orange  \
+| Apple  | Banana |  Orange  |
+| Apple  | Banana |  Orange  |
+
+
 ![][PHOTO1]
 
 ![][PHOTO2]
