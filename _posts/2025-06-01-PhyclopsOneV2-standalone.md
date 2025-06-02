@@ -8,7 +8,9 @@ tags: [devices]
 ---
 
 ## Phyclops-One v2 kit
+
 We will start accepting pre-orders for this kit in the second half of 2025.
+---------------------------------------------------------------------------
 
 |--|--|
 | :---- | --------------: | 
@@ -21,7 +23,9 @@ We will start accepting pre-orders for this kit in the second half of 2025.
 (Some soldering is required)
 
 Image of assembled board with capacitors and pin headers for IN0,IN1,IN2,IN3  and  GND,5V  
+
 Send us an email to phyclops at protonmail.com  to get notified once this device becomes available.
+---------------------------------------------------------------------------------------------------
 
 [PHOTO1]: /assets/images/PhyclopsOne-v2-photo01.jpg
 [PHOTO2]: /assets/images/PhyclopsOne-v2-photo02.jpg
