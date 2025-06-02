@@ -18,11 +18,11 @@ We will start accepting pre-orders for this kit in the second half of 2025.
 
 Board with all components in place (some soldering is required)
 
-![Image of assembled board with capacitors and pin headers][PHOTO2]
+![Assembled board with capacitors and pin headers][PHOTO2]
 
 (Some soldering is required)
 
-
+![Unassembled board with hand for size comparison][PHOTO3]
 
 Send us an email to phyclops at protonmail.com  to get notified once this device becomes available.
 ---------------------------------------------------------------------------------------------------
@@ -31,3 +31,4 @@ Example: How to connect it to a plant (Indoor/Outdoor)
 
 [PHOTO1]: /assets/images/PhyclopsOne-v2-kit-photo11.jpg
 [PHOTO2]: /assets/images/PhyclopsOne-v2-kit-photo14.jpg
+[PHOTO3]: /assets/images/PhyclopsOne-v2-photo02.jpg
