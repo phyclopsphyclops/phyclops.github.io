@@ -3,8 +3,8 @@ layout: post
 title: Phyclops-One v2 kit
 subtitle: Battery Powered Standalone Plant Signal Recorder
 excerpt_image: /assets/images/PhyclopsOne-v2-photo01.jpg
-categories: hardware
-tags: [hardware]
+categories: devices
+tags: [devices]
 ---
 
 ## Phyclops-One v2 kit
