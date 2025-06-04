@@ -24,7 +24,7 @@ Board with all components in place (some soldering is required)
 What can you do with this ?
 Example: How to connect it to a plant (Indoor/Outdoor)
 
-Send us an email to phyclops at protonmail.com and we will notify you once this device becomes available in the 2nd half of 2025
+Send us an email to :deciduous_tree:phyclops at protonmail.com:deciduous_tree: and we will notify you once this device becomes available in the 2nd half of 2025
 ---------------------------------------------------------------------------------------------------
 
 
