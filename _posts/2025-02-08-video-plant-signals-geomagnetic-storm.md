@@ -29,7 +29,7 @@ Unfortunately we had to stop this experiment on 7 June 2025 after 6 months of da
 equipment was stolen. We lost one environmental recorder and two plant signal recorders "Minions".
 
 Luckily we have developed a new type of plant signal recorder, the [Phyclops One v2](https://phyclops.com/devices/2025/06/01/PhyclopsOneV2-standalone.html) which we will use to
-continue the geomagentic experiment and several others related to plant associative learning (plant intelligence)
+continue the geomagnetic experiment and several others related to plant associative learning (plant intelligence)
 
 ## All videos for the Geomagentism long-run experiment
 
