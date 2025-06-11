@@ -20,6 +20,10 @@ tags: [devices]
 </form>
 
 
+IMPORTANT: Only two devices are currently available for immediate shipping (June 2025). If your order is queued as 3rd or later there will be a six to eight week shipping delay! If you do not want to take this risk send us an email to phyclops@protonmail.com and we will notify you once a new batch of devices becomes available for immediate shipping. 
+-------------------
+
+
 Board with all components in place (some soldering is required)
 
 ![Assembled board with capacitors and pin headers][PHOTO2]
@@ -30,9 +34,6 @@ Board with all components in place (some soldering is required)
 
 What can you do with this ?
 Example: How to connect it to a plant (Indoor/Outdoor)
-
-Send us an email to :deciduous_tree:phyclops at protonmail.com:deciduous_tree: and we will notify you once this device becomes available in the 2nd half of 2025
----------------------------------------------------------------------------------------------------
 
 
 [PHOTO1]: /assets/images/PhyclopsOne-v2-kit-photo11.jpg
