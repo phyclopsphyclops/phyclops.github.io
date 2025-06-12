@@ -25,17 +25,16 @@ of the sun and plants are very sensitive to different wavelengths of light, even
 directly they could be sensing the associated changes in photon spectral composition and react to it, for example to
 protect their sensitive photosynthetic machinery. 
 
-Unfortunately we had to stop this experiment on 7 June 2025 after 6 months of data collection because our 
-equipment was stolen. We lost one environmental recorder and two plant signal recorders "Minions".
+Unfortunately we had to stop this experiment on 7 June 2025 after six months of data collection because our 
+equipment was stolen from the field site. We lost one environmental recorder and two plant signal recorders "Minions".
 
-Luckily we have developed a new type of plant signal recorder, the [Phyclops One v2](https://phyclops.com/devices/2025/06/01/PhyclopsOneV2-standalone.html) which we will use to
-continue the geomagnetic experiment and several others related to plant associative learning (plant intelligence)
+Luckily we have developed a new type of plant signal recorder, the [Phyclops One v2](https://phyclops.com/devices/2025/06/01/PhyclopsOneV2-standalone.html) which we could use to setup a new plant and geomagnetism experiment or instead create a completely different experiment related to plant associative learning (plant intelligence)
 
 ## All videos for the Geomagentism long-run experiment
 
 
 # Newest  
-![Video 37](https://youtu.be/WD3tAWME2K4)  
+![Video 37](https://youtu.be/xIhUCuBbhe8)  
 
 ![Video 36](https://youtu.be/W-1yuLkbS0k)  
 
