@@ -33,8 +33,10 @@ Board with all components in place (some soldering is required)
 ![Unassembled board with hand for size comparison][PHOTO3]
 
 What can you do with this ?
+
 Example: How to connect it to a plant (Indoor/Outdoor)
 
+(Software tools, firmware and documentation)[https://github.com/phyclopsphyclops/PhyclopsOnev2-downloads]
 
 [PHOTO1]: /assets/images/PhyclopsOne-v2-kit-photo11.jpg
 [PHOTO2]: /assets/images/PhyclopsOne-v2-kit-photo14.jpg
