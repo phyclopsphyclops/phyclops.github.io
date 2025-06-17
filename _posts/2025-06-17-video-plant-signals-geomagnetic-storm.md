@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plant Signals in a Geomagentic Storm
+title: Plant Signals in a Geomagnetic Storm
 subtitle: 
 excerpt_image: /assets/images/excerpt-plant-signals-geomag-20241013.jpg
 categories: keyvideo
