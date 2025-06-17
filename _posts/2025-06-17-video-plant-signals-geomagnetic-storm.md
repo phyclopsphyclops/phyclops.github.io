@@ -30,7 +30,7 @@ equipment was stolen from the field site. We lost one environmental recorder and
 
 Luckily we have developed a new type of plant signal recorder, the [Phyclops One v2](https://phyclops.com/devices/2025/06/01/PhyclopsOneV2-standalone.html) which is much easier to use than the "Minions". We also sell it at a very competitive price. 
 
-Setting up a new plant and geomagnetism experiment or instead create a completely different experiment related to plant associative learning (plant intelligence) will be much quicker with the [Phyclops One v2](https://phyclops.com/devices/2025/06/01/PhyclopsOneV2-standalone.html).
+Setting up a new plant and geomagnetism experiment or instead creating a completely different experiment related to plant associative learning (plant intelligence) will be much quicker with the [Phyclops One v2](https://phyclops.com/devices/2025/06/01/PhyclopsOneV2-standalone.html).
 
 The latest [video below](https://youtu.be/XF-HcaxYZbo) summarizes the analysis we perform on the geomagnetic and plant data to answer our research question.
 
