@@ -32,12 +32,14 @@ Luckily we have developed a new type of plant signal recorder, the [Phyclops One
 
 Setting up a new plant and geomagnetism experiment or instead creating a completely different experiment related to plant associative learning (plant intelligence) will be much quicker with the [Phyclops One v2](https://phyclops.com/devices/2025/06/01/PhyclopsOneV2-standalone.html).
 
-The latest [video below](https://youtu.be/XF-HcaxYZbo) summarizes the analysis we perform on the geomagnetic and plant data to answer our research question.
+The latest [video below](https://youtu.be/0RqEM4VQv08) summarizes the analysis we performed on the geomagnetic and plant data to answer our research question. We find that a mid-sized conifer tree does indeed show different electrical behavior during geomagnetic storms!
 
 ## All videos for the Geomagnetism long-run experiment
 
 
 # Newest  
+![Video 39](https://youtu.be/0RqEM4VQv08)  
+
 ![Video 38](https://youtu.be/XF-HcaxYZbo)  
 
 ![Video 37](https://youtu.be/xIhUCuBbhe8)  
