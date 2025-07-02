@@ -20,7 +20,7 @@ tags: [devices]
 </form>
 
 
-IMPORTANT: Only two devices are currently available for immediate shipping (June 2025). If your order is queued as 3rd or later there will be a six to eight week shipping delay! If you do not want to take this risk send us an email to phyclops@protonmail.com and we will notify you once a new batch of devices becomes available for immediate shipping. 
+IMPORTANT: Only two devices are currently available for immediate shipping (July 2025). If your order is queued 3rd or later there will be a six to eight week shipping delay! If you do not want to take this risk send us an email to phyclops@protonmail.com and we will notify you once a new batch of devices becomes available for immediate shipping. 
 -------------------
 
 
