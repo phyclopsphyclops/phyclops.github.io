@@ -19,10 +19,11 @@ tags: [devices]
   <section style="font-size: 0.75rem;"> Powered by <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"/></section>
 </form>
 
+What can you do with this ?
 
-IMPORTANT: Only two devices are currently available for immediate shipping (July 2025). If your order is queued 3rd or later there will be a six to eight week shipping delay! If you do not want to take this risk send us an email to phyclops@protonmail.com and we will notify you once a new batch of devices becomes available for immediate shipping. 
--------------------
+[Software tools, firmware and documentation](https://github.com/phyclopsphyclops/PhyclopsOnev2-downloads)
 
+Example: How to connect it to a plant (Indoor/Outdoor)
 
 Board with all components in place (some soldering is required)
 
@@ -32,11 +33,8 @@ Board with all components in place (some soldering is required)
 
 ![Unassembled board with hand for size comparison][PHOTO3]
 
-What can you do with this ?
 
-Example: How to connect it to a plant (Indoor/Outdoor)
 
-[Software tools, firmware and documentation](https://github.com/phyclopsphyclops/PhyclopsOnev2-downloads)
 
 [PHOTO1]: /assets/images/PhyclopsOne-v2-kit-photo11.jpg
 [PHOTO2]: /assets/images/PhyclopsOne-v2-kit-photo14.jpg
