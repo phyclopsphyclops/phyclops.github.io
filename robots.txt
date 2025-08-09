@@ -1,0 +1,1 @@
+Sitemap: http://phyclops.com/jekyll-theme-yat/sitemap.xml
