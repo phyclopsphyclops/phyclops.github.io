@@ -19,6 +19,7 @@ tags: [devices]
   <section style="font-size: 0.75rem;"> Powered by <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"/></section>
 </form>
 
+<br><br>
 What can you do with this ?
 
 [Software tools, firmware and documentation](https://github.com/phyclopsphyclops/PhyclopsOnev2-downloads)
