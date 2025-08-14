@@ -3,10 +3,10 @@ layout: post
 title: Ongoing Research Daily Updates
 subtitle: 
 excerpt_image: /assets/images/excerpt-plant-signals-geomag-20241013.jpg
-categories: keyvideo
-tags: [video]
+categories: update
+tags: [update]
 top: 1
 ---
 
-## Ongoing Research updated (almost) daily
+## Ongoing Research Updated Daily (almost)
 Quest
