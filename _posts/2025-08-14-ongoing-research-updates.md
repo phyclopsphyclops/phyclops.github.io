@@ -14,3 +14,5 @@ top: 1
 
 
 ![](/assets/images/excerpt-phyclops-bsky-Screenshot_2025-08-14_14-36-22.jpg)
+
+[![](/assets/images/excerpt-phyclops-bsky-Screenshot_2025-08-14_14-36-22.jpg)](https://bsky.app/profile/phyclopsproject.bsky.social)
