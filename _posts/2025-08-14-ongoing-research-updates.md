@@ -10,6 +10,7 @@ top: 1
 
 ## Ongoing Research Updated Daily (almost)
 
-https://bsky.app/profile/phyclopsproject.bsky.social
+[Link to bsky](https://bsky.app/profile/phyclopsproject.bsky.social)
 
 
+![](assets/images/excerpt-phyclops-bsky-Screenshot_2025-08-14_14-36-22.jpg)
