@@ -12,7 +12,9 @@ top: 1
 
 [Forward to phyclops on BlueSky](https://bsky.app/profile/phyclopsproject.bsky.social)
 
+<a href="https://bsky.app/profile/phyclopsproject.bsky.social">
+![Forward to phyclops on BlueSky](/assets/images/excerpt-phyclops-bsky-Screenshot_2025-08-14_14-36-22.jpg)
+</a>
 
-[![Forward to phyclops on BlueSky](/assets/images/excerpt-phyclops-bsky-Screenshot_2025-08-14_14-36-22.jpg)](https://bsky.app/profile/phyclopsproject.bsky.social)
 
 
