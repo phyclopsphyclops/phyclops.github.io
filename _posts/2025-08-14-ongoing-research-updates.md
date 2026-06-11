@@ -15,7 +15,7 @@ top: 1
 
  <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
   <bsky-embed
-    username="phyclopsproject"
+    username="phyclopsproject.bsky.social"
     mode="dark"
     limit="5"
   >
