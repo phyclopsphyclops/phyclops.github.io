@@ -44,6 +44,10 @@ hours after it first appears and usually days or weeks before any physical
 symptoms such as leafloss or wilting become visible, giving you
 enough time to identify and remove the most likely source of the stress. 
 
+![](/assets/images/Screenshot_20260921-081120_PhyclopsHomeClient.png)
+
+![](/assets/images/Screenshot_20261001-105652_PhyclopsHomeClient.png)
+
 Our plant stress detector, [link]the PhyclopsHOME-SDv01[link], is best 
 used right after you have bought a new plant for your home and need to 
 find the right spot for it. Pick a place for your new plant, connect the 
