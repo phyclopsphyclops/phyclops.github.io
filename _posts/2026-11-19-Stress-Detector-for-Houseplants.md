@@ -29,7 +29,7 @@ even if light is abundant. This can be measured with expensive optical
 equipment without damaging any plant tissue, but the price of these
 devices is too high to be of interest to houseplant owners.
 
-[assets/images/excerpt-Citrus-with-PhyclopsHOME-SDv01-20261105_084430.jpg]()
+![](/assets/images/excerpt-Citrus-with-PhyclopsHOME-SDv01-20261105_084430.jpg)
 
 We at the Phyclops Project have found a way to detect plant stress
 using tiny electrodes attached to a branch or stem. Since these 
