@@ -48,13 +48,19 @@ enough time to identify and remove the most likely source of the stress.
 
 ![](/assets/images/Screenshot_20261001-105652_PhyclopsHomeClient.png)
 
-Our plant stress detector, [link]the PhyclopsHOME-SDv01[link], is best 
-used right after you have bought a new plant for your home and need to 
+Our plant stress detector, the [link pending ]PhyclopsHOME-SDv01[link pending], 
+is best used right after you have bought a new plant for your home and need to 
 find the right spot for it. Pick a place for your new plant, connect the 
-detector and for the next two to three days observe the stress levels.
-If stress is low, you have found the right spot and you can
-disconnect the detector. If stress is high you should move the plant to a
-different spot and again monitor stress levels for two to three days.
-Do this until you have found a spot where the stress levels are lowest.
-That is the place your plant likes best.
+detector and for the next two to three days [observe the stress levels
+with the App](/App.html). If stress is low, you have found the right spot 
+and can disconnect the detector. If stress is high you should move 
+the plant to a different spot and again monitor stress levels for two 
+to three days. Do this until you have found a spot where the stress 
+levels are lowest. That is the place your plant likes best.
 
+If, like us, you are curious and want to know which changes to your 
+home environment the new plant considers stressful, leave the detector 
+connected and observe how your plant responds. You will be 
+amazed by this simple but powerful insight into a plant's life.
+
+This is science, not superstition!
