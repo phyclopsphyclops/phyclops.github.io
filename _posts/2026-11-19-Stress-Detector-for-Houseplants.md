@@ -64,3 +64,7 @@ connected and observe how your plant responds. You will be
 amazed by this simple but powerful insight into a plant's life.
 
 This is science, not superstition!
+
+# Using the App (screencast)
+![Using the App](https://youtu.be/NZ41T24oKRc)  
+
